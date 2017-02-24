@@ -2,7 +2,7 @@ hw7.py
 
 
 from sortedcontainers import SortedDict
-#yowza
+# yowza
 def print_menu():
     print('1. Print Users')
     print('2. Add a User')
